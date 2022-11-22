@@ -1,4 +1,4 @@
-Powered by Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks) and [redscript](https://github.com/jac3km4/redscript), a Swift-like programming language for working with scripts used by REDengine in Cyberpunk 2077.
+Powered by [Cyber Engine Tweaks](https://github.com/yamashi/CyberEngineTweaks) and [redscript](https://github.com/jac3km4/redscript), a Swift-like programming language for working with scripts used by REDengine in Cyberpunk 2077.
 
 # Better Throwing Knives
 
